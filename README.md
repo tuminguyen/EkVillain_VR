@@ -13,6 +13,13 @@ There is a couple of zombies hidden on the scene (on the right near the cat stat
 You are not supposed to jump out of the carpet. If you trying to do so, you would die and the game is over.
 The people do not harm you but you can still shoot at them if you want cuz you are a villian.  
 
+
+
+<p float="left">
+  <img src="images/1.PNG" width="385" hspace="8"/>
+  <img src="images/2.PNG" width="385" /> 
+</p>
+
 ----------------------------------------------------------------------------------
 
 **USAGE**
